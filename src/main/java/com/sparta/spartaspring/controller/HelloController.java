@@ -1,4 +1,4 @@
-package com.sparta.spartaspring.contriller;
+package com.sparta.spartaspring.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
